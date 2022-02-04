@@ -11,7 +11,7 @@ Colaborando con varias empresas desarrollando aplicaciones para diferentes plata
 
 :heavy_check_mark: Aplicación web y App móvil de logística para paquetería.
 
-:heavy_check_mark: Administrador web y escritorio de checkin de biométricos (dispositivos ZKT).
+:heavy_check_mark: Administrador web y escritorio de checking de biométricos (dispositivos ZKT).
 
 :heavy_plus_sign: Inventarios, puntos de venta, sitios web, entre otras aplicaciones.
 
