@@ -27,6 +27,7 @@ HTML | CSS | JavaScript | BootStrap
 SQL Server | Azure SQL Server | MySQL
 </br>
 Hosting | CloudFlare | WordPress
+</br>
 Y mas...
 
 ## Encuéntrame en:
