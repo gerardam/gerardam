@@ -20,12 +20,13 @@ En el 2018 empecé a escribir mi blog compartiendo contenido de programación, a
 ## Skills:
 C# .Net | Xamarin | Python
 </br>
-Azure Maquinas virtuales, Storage, sitios web.
+Azure Maquinas virtuales | Storage | Web APPs | Web APIs
 </br>
 HTML | CSS | JavaScript | BootStrap
 </br>
-SQL Server | MySQL
+SQL Server | Azure SQL Server | MySQL
 </br>
+Hosting | CloudFlare | WordPress
 Y mas...
 
 ## Encuéntrame en:
